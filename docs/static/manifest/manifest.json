@@ -1,23 +1,23 @@
 {
-	"name": "clfhhc.github.io",
-	"short_name": "clfhhc.githu",
+	"name": "clfhhc",
+	"short_name": "clfhhc",
 	"icons": [
 		{
-			"src": "/clfhhc.github.io/static/icons/icon192x192.png",
+			"src": "/clfhhc/static/icons/icon192x192.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "/clfhhc.github.io/static/icons/icon512x512.png",
+			"src": "/clfhhc/static/icons/icon512x512.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}
 	],
-	"start_url": "/clfhhc.github.io/",
+	"start_url": "/clfhhc/",
 	"display": "standalone",
 	"orientation": "natural",
 	"background_color": "red",
 	"theme_color": "red",
-	"scope": "/clfhhc.github.io/",
+	"scope": "/clfhhc/",
 	"dir": "ltr"
 }

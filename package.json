@@ -1,8 +1,8 @@
 {
-  "name": "clfhhc.github.io",
+  "name": "clfhhc",
   "version": "1.0.0",
-  "description": "clfhhc.github.io",
-  "repository": "github:clfhhc/clfhhc.github.io",
+  "description": "clfhhc",
+  "repository": "github:clfhhc/clfhhc",
   "scripts": {
     "dev": "next",
     "build": "next build",

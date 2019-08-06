@@ -1,4 +1,4 @@
-const projectName = 'clfhhc.github.io';
+const projectName = 'clfhhc';
 const isProd = process.env.NODE_ENV === 'production';
 const prodAssetPrefix = `/${projectName}`;
 const serviceWorkerFilename = 'service-worker.js';
