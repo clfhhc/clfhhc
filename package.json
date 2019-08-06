@@ -1,8 +1,8 @@
 {
-  "name": "nextjs_ts_eslint",
+  "name": "clfhhc.github.io",
   "version": "1.0.0",
-  "description": "Project Setup with NextJs, Typescript, Eslint, Prettier, styled-jsx, react hooks, service worker, manifest",
-  "repository": "github:Project-Setup/Nextjs_Ts_Eslint",
+  "description": "clfhhc.github.io",
+  "repository": "github:clfhhc/clfhhc.github.io",
   "scripts": {
     "dev": "next",
     "build": "next build",

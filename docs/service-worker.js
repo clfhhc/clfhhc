@@ -1,34 +1,34 @@
 self.__precacheManifest = [
   {
-    "url": "/Nextjs_Ts_Eslint/_next/static/T_PuTweenxsbDftgMbURK/pages/_app.js",
-    "revision": "243b495e5fc917ac411e"
+    "url": "/clfhhc.github.io/_next/static/HQP8pQkycxn6Tu9wm8KYG/pages/_app.js",
+    "revision": "392d3987ed1560db0667"
   },
   {
-    "url": "/Nextjs_Ts_Eslint/_next/static/T_PuTweenxsbDftgMbURK/pages/_error.js",
-    "revision": "0efa60388692e3c36b3a"
+    "url": "/clfhhc.github.io/_next/static/HQP8pQkycxn6Tu9wm8KYG/pages/_error.js",
+    "revision": "8a6110da42f9fa7753ed"
   },
   {
-    "url": "/Nextjs_Ts_Eslint/_next/static/T_PuTweenxsbDftgMbURK/pages/about.js",
-    "revision": "e5280242b9666c4ce093"
+    "url": "/clfhhc.github.io/_next/static/HQP8pQkycxn6Tu9wm8KYG/pages/about.js",
+    "revision": "495e42f1ec616f2bb6db"
   },
   {
-    "url": "/Nextjs_Ts_Eslint/_next/static/T_PuTweenxsbDftgMbURK/pages/index.js",
-    "revision": "b408177bfd65759a76d6"
+    "url": "/clfhhc.github.io/_next/static/HQP8pQkycxn6Tu9wm8KYG/pages/index.js",
+    "revision": "9fdf4a3ab45c4ea5db67"
   },
   {
-    "url": "/Nextjs_Ts_Eslint/_next/static/T_PuTweenxsbDftgMbURK/pages/stats.js",
-    "revision": "ecfd8e40f82959771028"
+    "url": "/clfhhc.github.io/_next/static/HQP8pQkycxn6Tu9wm8KYG/pages/stats.js",
+    "revision": "753706b849b801263178"
   },
   {
-    "url": "/Nextjs_Ts_Eslint/_next/static/chunks/commons.c38b8a2d0425c03fa72c.js",
+    "url": "/clfhhc.github.io/_next/static/chunks/commons.c38b8a2d0425c03fa72c.js",
     "revision": "cae937e98804c93a6826"
   },
   {
-    "url": "/Nextjs_Ts_Eslint/_next/static/runtime/main-3ed12da57b4a1422150b.js",
-    "revision": "e279eb40f34f8ed248c5"
+    "url": "/clfhhc.github.io/_next/static/runtime/main-b7812def5cd3796aff6e.js",
+    "revision": "e5924384090330c524dd"
   },
   {
-    "url": "/Nextjs_Ts_Eslint/_next/static/runtime/webpack-3df6523e264ff2ac6548.js",
+    "url": "/clfhhc.github.io/_next/static/runtime/webpack-3df6523e264ff2ac6548.js",
     "revision": "b0a559ac8f238b6fd6f7"
   }
 ];
